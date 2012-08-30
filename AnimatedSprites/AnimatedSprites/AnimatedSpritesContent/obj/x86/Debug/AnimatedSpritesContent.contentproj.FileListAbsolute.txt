@@ -1,0 +1,2 @@
+c:\users\gabriel\documents\visual studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\Audio\GameAudio.xml
